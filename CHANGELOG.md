@@ -1,0 +1,1 @@
+This file does not need to be included in your Thunderstore package. Edit this when you're updating the car and you want to share what you changed.
